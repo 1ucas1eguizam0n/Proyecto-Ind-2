@@ -5,7 +5,7 @@ El objetivo principal es ofrecer información para tomar decisiones fundamentada
 # Contexto.
 El Observatorio de Movilidad y Seguridad Vial, perteneciente a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA), solicitó un estudio para obtener información relevante que permita tomar medidas para reducir las víctimas fatales de los accidentes de tráfico en la ciudad. Esta medida es crucial debido a la elevada tasa de mortalidad causada por estos incidentes, superando incluso a la generada por cualquier hecho delictivo en Buenos Aires. En promedio, 11 personas fallecían diariamente en accidentes viales, y muchas otras sufrían lesiones de diversa gravedad. Esta situación refleja un problema grave que requiere acciones inmediatas y efectivas para mejorar la seguridad vial y reducir el impacto negativo en la población de la ciudad.
 # Desarrollo del Estudio.
-Una vez definido el análisis de datos sobre la seguridad vial en CABA, se estructuró en 4 etapas:
+Una vez definido el análisis de datos sobre la seguridad vial en CABA, se estructuró en 3 etapas:
 
 1. **ETL - Data Engineer**: Se realizó la extracción, transformación y carga de datos de 2 archivos Excel con información sobre los incidentes y las víctimas de accidentes de tráfico. Estos datos se consolidaron en un dataset en formato CSV para su posterior análisis.
 
